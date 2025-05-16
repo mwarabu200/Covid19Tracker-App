@@ -1,7 +1,12 @@
 # Data_analysis
 Using python libraries to perform an extensive analysis
+geopandas
+plotly
+seaborn
+matplotlib
+ pandas
+ 
 ## Libraries & Methods
-
 ### 1. Data Loading & Inspection  
 - **pandas**  
   - `pd.read_csv()`  
